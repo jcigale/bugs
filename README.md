@@ -1,2 +1,1 @@
-# bugs
-Cool bugs found
+# Cool bugs handled
